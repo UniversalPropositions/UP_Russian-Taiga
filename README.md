@@ -1,4 +1,4 @@
-# UP_Russian-SynTagRus
+# UP_Russian-Taiga
 
 
 ## Data Format
